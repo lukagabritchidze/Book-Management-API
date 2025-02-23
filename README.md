@@ -27,8 +27,7 @@ This is a RESTful API for managing books and allowing CRUD operations, built usi
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/book-management-api.git
-   cd book-management-api
+   git clone https://github.com/lukagabritchidze/Book-Management-API.git
    ```
 2. Update the **appsettings.json** file with your database connection string:
    ```json
